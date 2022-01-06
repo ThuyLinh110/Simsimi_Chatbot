@@ -3,7 +3,7 @@ API-PythonThis is a project that will use the simsimi API to create a chatterbot
 
 ## Configuring the bot to run on the terminal
 - With everything installed, we will clone the repository like this:
-  $ git clone https://github.com/ThuyLinh110/ThuyLinh110.github.io/tree/master/AI/Simsimi-chatbot
+  $ git clone https://github.com/ThuyLinh110/Simsimi_Chatbot
 - pip install requirements.txt
 
 ## Boot process
